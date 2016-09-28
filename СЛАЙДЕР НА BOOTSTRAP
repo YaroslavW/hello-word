@@ -55,7 +55,7 @@
     </div>
   </div>
   <!--Здесь ниже будет слайдер-->
-  <div class="carousel slide" id="carousel">
+  <div class="carousel slide" id="carousel  data-ride="carousel"><!--Индикаторы слайдов--><!--для самостоятельной прокрутки data-ride="carousel"--->">
     <!--Индикаторы слайдов-->
     <ol class="carousel-indicators">
       <li class="active" data-target="#carousel" data-slide-to="0"></li>
